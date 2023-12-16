@@ -1,0 +1,93 @@
+/* STYLES */
+
+body {
+    background: beige;
+    color: darkolivegreen;
+    font-family: 'Domine', serif;
+}
+
+main {
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid rgb(150, 140, 110);
+    padding: 10px
+}
+
+h1 {
+    background: darkolivegreen;
+    padding: 21px;
+    font-size: 80px;
+    margin-top: auto;
+    color: rgb(150, 140, 110);
+    text-align: left;
+    margin-block-end: 0.3cm;
+}
+
+h6 {
+    margin: 0.3cm 5cm 0.3cm 5cm;
+    color: rgb(150, 140, 110);
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+}
+
+h2 {
+    background: rgb(150, 140, 110);
+    padding: 21px 10px 21px 21px;
+    margin-right: -10px;
+    font-size: 36px;
+    margin-top: 30px;
+    text-align: right;
+    margin-block-end: 0.3cm;
+    margin-block-start: 0.3cm;
+}
+
+h3 {
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 30px;
+    margin-block-end: 0.3cm;
+}
+
+p {
+    text-align: justify;
+    margin-block-start: auto;
+}
+
+h4 {
+    text-align: right;
+    margin-top: auto;
+    margin-block-end: 0px;
+    text-transform: uppercase;
+}
+
+ul {
+    font-weight: bold;
+    list-style-type: none;
+    background: rgb(150, 140, 110);
+    padding: 20px 0px 20px 100px;
+    margin-right: 390px;
+    margin-left: -10px;
+}
+
+h5 {
+    color: rgb(150, 140, 110);
+    margin-block-end: 0;
+}
+
+a {
+    color: rgb(150, 140, 110);
+    font-weight: bold;
+}
+
+a:hover {
+    color: darkolivegreen
+}
+
+li {
+    padding: 4px;
+    border-top: 3px solid;
+
+}
